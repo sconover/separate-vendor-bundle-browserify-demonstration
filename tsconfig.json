@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": "nodedeps/node_modules"
+  },
+  "files": [
+    "src/init.ts"
+  ]
+}
