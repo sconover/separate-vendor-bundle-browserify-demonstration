@@ -6,6 +6,9 @@
   "dependencies": {
     "long": "3.2.0"
   },
+  "devDependencies": {
+    "browserify": "15.2.0"
+  },
   "scripts": {
     "test": "grunt nodeunit"
   },
