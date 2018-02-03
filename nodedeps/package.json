@@ -9,7 +9,8 @@
   "devDependencies": {
     "browserify": "15.2.0",
     "tsify": "3.0.4",
-    "typescript": "2.7.1"
+    "typescript": "2.7.1",
+    "@types/long": "3.0.32"
   },
   "scripts": {
     "test": "grunt nodeunit"

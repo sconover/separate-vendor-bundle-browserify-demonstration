@@ -1,6 +1,8 @@
 {
   "compilerOptions": {
-    "baseUrl": "nodedeps/node_modules"
+    "baseUrl": "nodedeps/node_modules",
+    "typeRoots" : ["./nodedeps/node_modules/@types"],
+    "module": "commonjs"
   },
   "files": [
     "src/init.ts"
